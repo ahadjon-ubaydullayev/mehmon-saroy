@@ -1,1 +1,1 @@
-web: gunicorn Anketa_bot.wsgi --log-file -
+web: gunicorn HMS.wsgi --log-file -
